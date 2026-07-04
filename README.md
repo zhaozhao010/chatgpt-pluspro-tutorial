@@ -6,25 +6,29 @@ www.aicz123.com AI充值网。目前是国内少有的正规代充平台。
 
 图下为ai充值网首页。
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=OTM2MWMzZTUwYmQ4NThlZGQ3NzdhZjQyMmM0Yzk4YzNfZXlqc1o0Y003bXIxVHBIMVhyUGhlTUtoWU1RdEVsQWVfVG9rZW46STJ1cmJjWUtCb2JTSFJ4cFdud2NzNGVUblhnXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="974" height="489" alt="image" src="https://github.com/user-attachments/assets/44da8925-9c89-4772-a129-0745ba018488" />
+
 
 # ai充值网充值教程
 
 ## 第一步：选择购买套餐
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=YjRkZjE0OTUxZDE1YjU4MWExMjNiZDEzNzY3ZDFhYzZfTVlyTFZ3MFo5ckpBWXhFYjhhOU85aU95ZGcwN2hJZFJfVG9rZW46U2E5WmJjdDFvb0J6Y2d4VjVkdGNEMXE0bkpmXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="1405" height="707" alt="image" src="https://github.com/user-attachments/assets/37036889-2e84-4505-8856-4e1f9199046e" />
+
 
 根据自己的情况选择适合自己的套餐。套餐费用比汇率贵一些，是很正常的，因为是正规充值，所以需要收取一些服务费。如果遇到低价的，则要谨慎，因为低价的往往有封号的可能，毕竟这么多钱，我们也要选择可靠并且稳定的。
 
 ## 第二步，点击购买套餐
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDBlZTMwY2I1M2RmZjdjODc2YTFlNGI0OWM0ZWRjZTJfbndOR2lxT3k3VjA2ckxLaWtRNExhRFFFbUp5VGFzTThfVG9rZW46TzFLS2JYdDRMb1V2QXp4dWN3MmM1bm5LbkRiXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="847" height="374" alt="image" src="https://github.com/user-attachments/assets/0e9afde3-ceca-41fa-8508-af1b558dd061" />
+
 
 联系方式可以填写你的QQ或者是微信电话。用来查询订单！付款之后会自动弹出来卡密。
 
 ## 第三步，复制卡密，点击核销！
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=MjdmOTA1ZDdjNTg4MDRiOGY0YmEyNTE1N2NlODlmNTVfTlpPN281S3NHaHJ3N3Z6V3BicW9acGVESTRyV0gxRmxfVG9rZW46QVBTcGJSQUFCb3RsSTZ4N25lUGN3SENqblZkXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/b826d421-1690-4a33-803f-bb8e9901455e" />
+
 
 **点击核销之后，会自动出来一个网站。**
 
@@ -34,23 +38,28 @@ www.aicz123.com AI充值网。目前是国内少有的正规代充平台。
 
 **会弹出一个页面。将此信息全部复制到核销网站。**
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=NDQxNzkwYmU4Njk2MWRiZGVmMDdhMTMwOTdjNzNlMTRfcllMbUZ6bUYxejFtYlFuczdNd1JiSk42eGVGMmlRdjVfVG9rZW46T2dtVmJxOEZSb1pZcEl4ZWV3ZmN6T3B3bnJkXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="995" height="449" alt="image" src="https://github.com/user-attachments/assets/f67276d4-022d-4dda-9a84-38874f51048a" />
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=YzQ4MTJjZmM3MjBjNjZkY2IwNjA4NDNjYmRiZjBkMzRfU0F1emhIUUhaSkNJdThQRG4wUXNtN3J5bnIwSzVGQ0RfVG9rZW46SGRNd2J0aHJZb3llTm14c3lzeGMxRkFkblB4XzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+
+<img width="977" height="523" alt="image" src="https://github.com/user-attachments/assets/40fa01cd-c1e4-4cba-be59-9e1ab8aef4f6" />
+
 
 ## 第五步：点击验证账号
 
 点击确认充值！等待十来秒，即可充值成功。
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=MTAzYTY0Y2Q3YzkxYTE5MGRkNTY2ZTA3NmQ1ZjE5MDBfRXFnSVg3NjgwblZDc1ZWUm5wNXU4Wm1PUzFjdEhKRUJfVG9rZW46WG9pRmJEZ1dSb2lUMUF4WXBLd2M0MEpNbmlnXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="961" height="571" alt="image" src="https://github.com/user-attachments/assets/6d239571-0ad2-43a1-a17b-e5bb4fe5e850" />
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=NWZlNGI0YzFiZTJmMTQ4NDZmN2I3YTBlODhmOTcwNTRfQkUzbVo1TkVSMkJuaUt2bkR3T3hKVnExZG5xM1l3NjBfVG9rZW46UE9EZmJHeXp4bzFaNUV4anZCeWNTOXo3bnliXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+
+<img width="963" height="524" alt="image" src="https://github.com/user-attachments/assets/2290143d-5427-4885-9247-d9dd72a6189a" />
+
 
 ## 第六步：登录你的chatgpt，查看充值结果
 
 在对话框中输入我现在的GPT订阅状态是什么！显示如下代表充值成功！
 
-![](https://tcny72vi58qt.feishu.cn/space/api/box/stream/download/asynccode/?code=Zjc5ZmRjOTNmODQ4YzM5ODZmZDU0YzZjNDFkNmQ4OGVfam1iUzc0SGF3R21FQTM1c0hFUWEzMVRLS3FPTmFXd3VfVG9rZW46VERmVGJTSFp2b3c0c0Z4N2t3QWMxaTBzbkhlXzE3ODI3OTQ4NDk6MTc4Mjc5ODQ0OV9WNA&add_watermark=true&scene_type=CCM)  
+<img width="978" height="450" alt="image" src="https://github.com/user-attachments/assets/55b5afc0-c4d8-49d3-b568-502874a389a3" />
+
 
 **充值方式很简单，全程不碰你的账号密码，并且都是以卡密自助充值的方式。**
 
