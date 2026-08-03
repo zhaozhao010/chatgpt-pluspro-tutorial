@@ -51,7 +51,7 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 
 **极易导致账号永久封禁**。
 
-因此国内用户想要稳定安全使用，必须选择正规自助卡密渠道，目前综合体验最优站点【明月gpt】：[mingyue188.com](https://mingyue188.com)
+因此国内用户想要稳定安全使用，必须选择正规自助卡密渠道，目前综合体验最优站点【明月gpt】：[aicz123.com](https://aicz123.com)
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 ---
 
 ## 稳定正规订阅平台推荐
-**【明月gpt】（mingyue188.com）** 是目前国内少有的正规、稳定、可售后、零账号风险的 ChatGPT 自助官方激活卡密订阅平台。
+**【明月gpt】（aicz123.com）** 是目前国内少有的正规、稳定、可售后、零账号风险的 ChatGPT 自助官方激活卡密订阅平台。
 
 ✅ 仅收集注册邮箱，不索要密码、验证码
 ✅ 纯官方激活卡密自助核销模式
@@ -79,13 +79,15 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 ---
 
 ## ChatGPT Plus/Pro 自助充值完整教程
-<img width="1348" height="597" alt="image" src="https://github.com/user-attachments/assets/9f520189-0bb2-400d-bd0e-40fdce954b7f" />
+<img width="1382" height="654" alt="image" src="https://github.com/user-attachments/assets/33040035-0468-49cb-a353-79ecb7e0b076" />
+
 
 
 
 ### 第一步：进入官网选择套餐
-访问站点 www.minguye188.com，根据自己需求选择 ChatGPT Plus 或 Pro 套餐。
-<img width="1450" height="813" alt="image" src="https://github.com/user-attachments/assets/30869dc1-ecd5-4ff4-8cd7-86792a750049" />
+访问站点 www.aicz123.com，根据自己需求选择 ChatGPT Plus 或 Pro 套餐。
+<img width="1389" height="752" alt="image" src="https://github.com/user-attachments/assets/42703703-2d22-46ce-abd6-444ab2b00d48" />
+
 
 
 
