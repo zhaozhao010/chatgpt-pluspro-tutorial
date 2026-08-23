@@ -51,14 +51,12 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 
 **极易导致账号永久封禁**。
 
-因此国内用户想要稳定安全使用，必须选择正规自助卡密渠道，目前综合体验最优站点【明月Plus】：[aicz123.com](https://aicz123.com)
-
 ---
 
 ## 正规卡密自助激活模式核心特征
 整套方案全程隔离账号权限，从根源规避盗号、风控风险，核心规则如下：
-1. 仅向商家提供注册账号的邮箱，无需提交账号密码、短信验证码；
-2. 商家只发放官方专属激活卡密，全程不会登录你的ChatGPT账号；
+1. 仅向商家提供注册账号的邮箱或者是Accout ID，无需提交账号密码、短信验证码,无需提交Session令牌；
+2. 商家只发放专属激活卡密，全程不会登录你的ChatGPT账号；
 3. 所有激活操作由你本人在ChatGPT官方网站独立完成，自主掌控账号；
 4. 完整卡密自助代充流程，无第三方介入账号操作。
 
@@ -74,19 +72,30 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 ✅ 充值失败订单支持原路全额退款
 ✅ 2026最新开通方案实时同步更新
 
-想要安全开通 ChatGPT Plus / Pro，优先选择本站渠道。
+因此国内用户想要稳定安全使用，必须选择正规自助卡密渠道，目前综合体验最优站点【明月Plus】：[aicz123.com](https://aicz123.com)
+
+选择理由：
+
+1，支持使用ChatGPT Accout ID充值，Accout ID充值的好处是不需要给代充网站提供Session令牌，也不需要提供任何账号密码，无需任何敏感隐私信息，安全有保障。
+
+2，明月Plus有完整且透明的退款售后政策以及隐私政策和服务条款，提供质保，支持未核销无理由退款，支持在线客服实时指导，并且这些政策都在明月Plus官网可以看到，属于明确公示，有据可依
+
+3，明月Plus有完整的充值教程，从提取Accout ID到充值完成，步骤写的很明白，小白也能看的懂。
 
 ---
 
 ## ChatGPT Plus/Pro 自助充值完整教程
-<img width="1382" height="654" alt="image" src="https://github.com/user-attachments/assets/33040035-0468-49cb-a353-79ecb7e0b076" />
+<img width="1900" height="814" alt="image" src="https://github.com/user-attachments/assets/3eca624b-9e09-43ec-9140-494c5b8486b5" />
+
+
 
 
 
 
 ### 第一步：进入官网选择套餐
 访问站点 www.aicz123.com，根据自己需求选择 ChatGPT Plus 或 Pro 套餐。
-<img width="1389" height="752" alt="image" src="https://github.com/user-attachments/assets/42703703-2d22-46ce-abd6-444ab2b00d48" />
+<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/25c3b855-0ed2-4261-b8bc-a0a4cfc5ad83" />
+
 
 
 
@@ -95,7 +104,8 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 
 ### 第二步：下单填写注册邮箱，完成付款
 仅填写你的OpenAI注册邮箱即可，不用提供账号密码、验证码；支持微信/支付宝支付，付款后系统自动发放专属激活卡密。
-<img width="1320" height="849" alt="image" src="https://github.com/user-attachments/assets/77730235-fd08-49d5-9714-ed0fcbc8a6d2" />
+<img width="1904" height="719" alt="image" src="https://github.com/user-attachments/assets/5deb509c-cc73-4a7a-bf75-27b50d6e7bc4" />
+
 
 
 
@@ -104,17 +114,26 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 <img width="939" height="451" alt="image" src="https://github.com/user-attachments/assets/1d758df3-6e7d-4196-934a-1d2224ff3ee1" />
 
 
-### 第四步：登录自己的ChatGPT官方账号
+### 第四步：在你的浏览器提前登录自己的ChatGPT官方账号
 登录你个人独立账号，全程自己操作，不要共享、不要交由他人代登。
 
-### 第五步：获取JSON验证信息
-在核销页面点击「获取JSON」，复制页面生成的全部验证内容。
+### 第五步：在核销也页面上选择使用Accout ID充值
+
+<img width="979" height="680" alt="image" src="https://github.com/user-attachments/assets/6b4c0d74-9c01-4b1a-93ee-6582480850cd" />
+
+1，在核销页面点击「获取JSON」，复制页面生成的全部验证内容。也可以打开https://chatgpt.com/api/auth/session来获取JSON
 <img width="995" height="443" alt="image" src="https://github.com/user-attachments/assets/002f0a5a-c409-4ca8-a5b5-5905d9d3f863" />
+
+
+2，将复制的Session信息发送给豆包或者ChatGPT或者其他ai软件，并发送以下提示词解码刚才给你发送的session的accout ID，并结合accessToke核对。
+
+3，豆包或者ChatGPT会帮您提取出您的Accout ID并核对。此时您复制您的Accout ID粘贴到核销页面的核销对话框。
+<img width="1069" height="800" alt="image" src="https://github.com/user-attachments/assets/f611bc08-98ea-4689-84c8-82fa66c40055" />
+
 
 
 ### 第六步：完成验证、自动开通会员
 粘贴验证信息并确认，等待 10~20 秒即可订阅成功。
-<img width="965" height="455" alt="image" src="https://github.com/user-attachments/assets/8471aec9-4842-446a-945c-386c20c3f44e" />
 
 <img width="943" height="425" alt="image" src="https://github.com/user-attachments/assets/ae76c40c-d6dc-450d-80c9-fc1e21af1cfd" />
 
@@ -142,28 +161,28 @@ OpenAI 暂未开放中国大陆地区支付通道，国内储蓄卡、支付宝�
 可以。所有充值失败、未到账、卡密核销异常订单当天全额原路退款，无任何扣费、无套路，保障用户资金安全。
 
 ### 2. 充值完成后依旧显示免费版怎么办？
-订阅生效存在短暂延迟，建议等待3-5分钟，退出账号重新登录或更换浏览器刷新。若依旧未生效，可凭订单号联系站点客服核验处理。
+订阅生效存在短暂延迟，建议等待3-5分钟，退出账号重新登录或更换浏览器刷新。若依旧未生效，可凭订单号联系站点客服核验处理退款事宜。
 
 ### 3. 自助卡密充值是什么原理？
 全程用户自己操作账号，平台仅提供官方核销激活卡密，只需要你的注册邮箱，不需要提供账号密码、不需要他人代登，从根源杜绝盗号、风控、封号问题。
 
 ### 4. 只给邮箱，商家会不会登录我的账号？
-不会。整套卡密方案仅依托邮箱匹配卡密，无登录账号所需的密码、验证码，商家没有任何途径登录你的ChatGPT账号，隐私完全隔离。
+不会。整套卡密方案仅依托邮箱匹配卡密，无登录账号所需的密码、验证码，Seeion，商家没有任何途径登录你的ChatGPT账号，隐私完全隔离。
 
 ### 5. 新注册的 OpenAI 账号可以开通吗？
 可以。只要是能够正常登录、状态正常的个人OpenAI账号，均可正常核销开通Plus/Pro会员。
 
-### 6. 订阅后的GPT4o额度和海外官方直接订阅一致吗？
+### 6. 订阅后的GPT5.6额度和海外官方直接订阅一致吗？
 完全一致。开通后权益、额度、功能与海外官方直接订阅完全相同，无阉割、无功能限制。
 
 ### 7. 订单卡密失效、核销失败怎么处理？
-卡密失效、核销异常均可直接前往 【明月gpt】aicz123.com 联系在线客服，免费重新发放卡密或办理全额退款。
+卡密失效、核销异常均可直接前往 【明月Plus】aicz123.com 联系在线客服，免费重新发放卡密或办理全额退款。
 
 ### 8. 低价代充为什么不建议使用？
 市面超低价渠道基本为黑卡、盗刷渠道、共享账号，大多会索要账号密码，短期能用，100%批量秋后封号，隐私与资金双重风险，不建议贪便宜。
 
 ### 9. 开通后可以正常使用联网、绘图、插件功能吗？
-可以。成功开通后，所有Plus / Pro专属功能全部解锁，包含GPT4、GPT4o、联网搜索、DALL·E绘图、插件中心等全部付费权益。
+可以。成功开通后，所有Plus / Pro专属功能全部解锁，包含GPT5.6、联网搜索、DALL·E绘图、Codex权限和插件中心等全部付费权益。
 
 ---
 
