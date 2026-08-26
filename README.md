@@ -12,6 +12,7 @@
 - [Plus、Pro 与 Codex 对比](#comparison)
 - [国内开通前需要确认什么](#before-subscribe)
 - [Account ID 与账号安全](#account-security)
+  - [本地快速查询 Account ID](#local-account-id)
 - [明月Plus 第三方服务说明](#mingyueplus)
 - [ChatGPT Plus／Pro 操作参考](#tutorial)
 - [充值与订阅避坑指南](#risk-guide)
@@ -83,7 +84,26 @@ Account ID 是用于区分账户的标识信息，不是密码，也不能单独
 - 账号密码、短信或邮箱验证码；
 - 身份证件、完整银行卡信息或远程控制权限。
 
-如果某个流程要求打开认证接口、复制完整 JSON、上传 Cookie，或让他人远程登录账号，应立即停止。敏感信息一旦泄露，应尽快退出所有会话、修改密码、检查多因素认证设置，并联系官方支持。
+如果某个第三方流程要求复制或上传认证接口返回的完整 JSON、Cookie，或让他人远程登录账号，应立即停止。敏感信息一旦泄露，应尽快退出所有会话、修改密码、检查多因素认证设置，并联系官方支持。
+
+<a id="local-account-id"></a>
+
+### 本地快速查询 Account ID
+
+下面的方法只在你自己已经登录 ChatGPT 的 Chrome／Edge 浏览器中本地执行，用于让控制台仅显示 Account ID；不需要把 Session、Access Token、Cookie 发给任何第三方。
+
+1. 登录 [https://chatgpt.com](https://chatgpt.com/)。
+2. 按 `F12` 打开开发者工具。
+3. 切换到 **Console／控制台**。
+4. 输入下面的代码并按回车：
+
+```javascript
+fetch('/api/auth/session').then(r=>r.json()).then(s=>console.log('Account ID:', s?.account?.id || '未找到'))
+```
+
+控制台会输出 `Account ID: ...`。只复制 `Account ID:` 后面的 ID；如果显示“未找到”，请刷新页面或重新登录后再试，不要改为输出、复制或上传完整 Session JSON。
+
+> 该地址是 ChatGPT 网页端使用的内部接口，并非 OpenAI 公开承诺长期兼容的 API，未来可能随网页更新而失效。只运行你已经阅读并理解的代码，不要在控制台粘贴陌生人提供的脚本。
 
 ---
 
@@ -139,7 +159,7 @@ Account ID 是用于区分账户的标识信息，不是密码，也不能单独
 
 ### 第五步：需要 Account ID 时只填写该标识
 
-若当前订单明确需要 Account ID，请只在核对过域名的订单页面填写 **Account ID 本身**。不要为了提取或核对 Account ID 而把完整 Session JSON、Access Token、Cookie 或其他认证信息发送给商家、客服或任何 AI。
+若当前订单明确需要 Account ID，可按上文的[本地快速查询 Account ID](#local-account-id)方法自行查看，然后只在核对过域名的订单页面填写 **Account ID 本身**。不要为了提取或核对 Account ID 而把完整 Session JSON、Access Token、Cookie 或其他认证信息发送给商家、客服或任何 AI。
 
 <img width="979" height="680" alt="Account ID 输入界面示例" src="https://github.com/user-attachments/assets/6b4c0d74-9c01-4b1a-93ee-6582480850cd" />
 
