@@ -9,6 +9,8 @@
 ## 目录
 
 - [项目介绍](#overview)
+- [ChatGPT 教程](#chatgpt-guides)
+- [Codex 教程](#codex-guides)
 - [Plus、Pro 与 Codex 对比](#comparison)
 - [国内开通前需要确认什么](#before-subscribe)
 - [Account ID 与账号安全](#account-security)
@@ -35,6 +37,26 @@
 - 订阅成功后如何核对套餐状态与 Codex 额度。
 
 官方服务是否可用取决于用户所在地区、账户状态和 OpenAI 当前政策。请先查看 [ChatGPT 支持的国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)，遵守适用的服务条款和当地法律，不要伪造账户资料或支付信息。
+
+---
+
+<a id="chatgpt-guides"></a>
+
+## ChatGPT 教程
+
+- [ChatGPT 充值指南：官方订阅、应用商店与第三方服务怎么选](docs/chatgpt-recharge-guide.md)
+- [ChatGPT Plus 国内开通指南：订阅前检查与操作步骤](docs/chatgpt-plus-china-guide.md)
+- [ChatGPT 支付失败怎么办：扣款、拒付与未到账排查](docs/chatgpt-payment-failed.md)
+- [ChatGPT Account ID 指南：含义、查询方法与安全边界](docs/account-id-guide.md)
+
+<a id="codex-guides"></a>
+
+## Codex 教程
+
+- [Codex 中文知识库入口](codex/README.md)
+- [Codex 额度怎么计算与查询](codex/codex-usage-limits.md)
+- [Codex Credits：购买、消耗与预算控制](codex/codex-credits.md)
+- [Codex CLI 安装与首次运行](codex/codex-cli-install.md)
 
 ---
 
