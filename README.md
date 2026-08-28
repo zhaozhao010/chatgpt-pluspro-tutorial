@@ -2,7 +2,8 @@
 
 如果你正在了解 **ChatGPT 充值**、**ChatGPT 国内开通**、**ChatGPT Plus 充值**或 **ChatGPT Plus 国内开通**，本文会从官方订阅、第三方服务与账号安全三个角度说明可选方案；同时介绍 **ChatGPT Pro 国内开通**、**Codex** 的使用方式与 **Codex 额度**规则，并解释 **Account ID** 应该如何安全使用。
 
-![ChatGPT Plus 和 Pro 开通指南封面](image/chatgpt-plus-cover.png)
+<img width="1154" height="615" alt="image" src="https://github.com/user-attachments/assets/ca628b6a-2389-4451-ba26-0e1151ec53dd" />
+
 
 > 更新日期：2026 年 8 月。OpenAI 的套餐、价格、功能、地区可用性和额度可能调整，请以本文末尾的官方页面及你账号内显示的信息为准。
 
