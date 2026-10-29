@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">安全地在本地查询 ChatGPT Account ID</title>
+  <desc id="desc">在本人已登录 ChatGPT 的浏览器控制台运行只输出 Account ID 的命令，不复制或上传完整 Session、Access Token、Cookie、密码或验证码。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f3ff"/>
+      <stop offset="1" stop-color="#fff9f2"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#35268f" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif">
+    <text x="72" y="86" font-size="26" font-weight="700" fill="#6b4eff">小羊Plus知识库 · 账号安全</text>
+    <text x="72" y="148" font-size="48" font-weight="800" fill="#17152b">本地快速查询 Account ID</text>
+    <text x="72" y="194" font-size="22" fill="#625f73">全部操作只在本人已登录 ChatGPT 的 Chrome／Edge 浏览器中完成</text>
+
+    <g transform="translate(72 238)" filter="url(#shadow)">
+      <rect width="1056" height="268" rx="24" fill="#ffffff" stroke="#ded8f7"/>
+      <circle cx="50" cy="48" r="24" fill="#6b4eff"/>
+      <text x="50" y="56" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">1</text>
+      <text x="90" y="57" font-size="23" font-weight="700" fill="#242136">登录 chatgpt.com，按 F12 打开开发者工具，进入 Console／控制台</text>
+
+      <circle cx="50" cy="111" r="24" fill="#6b4eff"/>
+      <text x="50" y="119" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">2</text>
+      <text x="90" y="120" font-size="23" font-weight="700" fill="#242136">粘贴下面的命令并按回车</text>
+
+      <rect x="34" y="151" width="988" height="82" rx="14" fill="#17152b"/>
+      <text x="56" y="184" font-family="Consolas,'Courier New',monospace" font-size="17" fill="#d8d3ff">fetch('/api/auth/session').then(r=&gt;r.json()).then(s=&gt;</text>
+      <text x="56" y="211" font-family="Consolas,'Courier New',monospace" font-size="17" fill="#d8d3ff">console.log('Account ID:', s?.account?.id || '未找到'))</text>
+    </g>
+
+    <g transform="translate(72 548)">
+      <rect width="1056" height="112" rx="22" fill="#fff4e6" stroke="#ffc778"/>
+      <circle cx="50" cy="56" r="24" fill="#ff9f1c"/>
+      <text x="50" y="64" text-anchor="middle" font-size="25" font-weight="800" fill="#ffffff">!</text>
+      <text x="90" y="48" font-size="23" font-weight="800" fill="#7a4100">只复制“Account ID:”后面的标识</text>
+      <text x="90" y="80" font-size="20" fill="#7a4100">不要复制、上传或转发完整 Session JSON、Access Token、Cookie、密码或验证码。</text>
+    </g>
+  </g>
+</svg>

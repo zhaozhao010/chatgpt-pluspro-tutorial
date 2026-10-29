@@ -1,0 +1,37 @@
+title: "小羊Plus知识库"
+description: "面向国内用户介绍订阅路径、付款排查、账号安全和相关使用教程。"
+lang: zh-CN
+url: "https://zhaozhao010.github.io"
+baseurl: "/chatgpt-pluspro-tutorial"
+repository: "zhaozhao010/chatgpt-pluspro-tutorial"
+logo: "/chatgpt-pluspro-tutorial/image/chatgpt-plus-cover.png"
+
+theme: jekyll-theme-cayman
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+
+relative_links:
+  enabled: true
+  collections: true
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: "/chatgpt-pluspro-tutorial/image/chatgpt-plus-cover.png"
+
+exclude:
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2563eb">
+    {%- seo -%}
+    {%- if page.readme_home -%}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": "zh-CN",
+      "dateModified": {{ page.date_modified | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page.url | absolute_url | jsonify }}
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "小羊Plus中文知识库",
+        "url": {{ '/' | absolute_url | jsonify }}
+      },
+      "keywords": [
+        "ChatGPT充值",
+        "ChatGPT代充"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "ChatGPT充值有哪些方式？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "常见方式包括 ChatGPT 官网订阅、Apple App Store 或 Google Play 应用内购，以及独立第三方服务。实际可用渠道取决于所在地区、账号页面和付款方式。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ChatGPT代充是什么，安全吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ChatGPT代充是独立第三方提供的付款或订阅协助，不是 OpenAI 官方服务。不能笼统承诺绝对安全；选择前应核对域名、价格、交付方式、退款政策和信息收集范围，并拒绝提供任何登录凭证。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ChatGPT Plus 国内怎么开通？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先确认实际所在地在 OpenAI 支持范围内，再从 ChatGPT 账号的升级入口尝试官方订阅。如果官方页面没有可用支付方式，可自行评估第三方服务，但应核验条款、价格和退款政策，且不提供登录凭据。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ChatGPT 充值失败怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "确认登录方式与目标账号一致，再检查账单地址、卡片状态、银行拒付提示及 OpenAI 服务状态。官方订单联系 OpenAI Support，第三方订单凭订单号和付款记录联系对应平台。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Account ID 是什么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Account ID 是区分账户的标识符，本身不是密码。只提供 Account ID 本身，不要外传完整 Session JSON、Access Token、Cookie、密码或验证码。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ChatGPT Plus 和 Pro 怎么选？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Plus 适合大多数日常聊天、学习、创作、文件处理和适量编程需求；Pro 更适合频繁执行复杂任务或需要更高模型及 Codex 用量的用户。两种方案都可能存在动态使用限制。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Codex 是否包含在 Plus 或 Pro 中？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Codex 可包含在符合条件的 ChatGPT 计划中，Plus 与 Pro 的可用额度、模型和功能可能不同。使用 API Key 的 Codex 属于单独的 API 计费路径。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Codex 额度用完怎么办？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在 ChatGPT 设置或用量页面查看额度类型、重置时间和可用选项；Codex CLI 可输入 /status。根据账号页面提示，可等待重置、调整当前可用模型、升级套餐或在符合条件时购买额外 Credits。"
+          }
+        }
+      ]
+    }
+    </script>
+    {%- elsif page.tech_article -%}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": "zh-CN",
+      "dateModified": {{ page.date_modified | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page.url | absolute_url | jsonify }}
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "小羊Plus知识库",
+        "url": {{ '/' | absolute_url | jsonify }}
+      },
+      "keywords": {{ page.keywords | jsonify }}
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "小羊Plus知识库",
+          "item": {{ '/' | absolute_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.title | jsonify }},
+          "item": {{ page.url | absolute_url | jsonify }}
+        }
+      ]
+    }
+    </script>
+    {%- endif -%}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到正文</a>
+
+    <header class="site-header">
+      <div class="site-nav">
+        <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="返回知识库首页">
+          <span class="brand-mark" aria-hidden="true">X</span>
+          <span>小羊Plus知识库</span>
+        </a>
+        <nav class="nav-links" aria-label="主导航">
+          <a href="{{ '/' | relative_url }}">首页</a>
+          <a href="{{ '/codex/' | relative_url }}">Codex 教程</a>
+          <a href="https://github.com/zhaozhao010/chatgpt-pluspro-tutorial">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    {%- if page.home -%}
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="hero-kicker">2026 中文教程 · 持续更新</p>
+        <h1>{{ page.hero_title | default: page.title }}</h1>
+        <p class="hero-description">{{ page.hero_description | default: page.description }}</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#chatgpt-guides">查看 ChatGPT 教程</a>
+          <a class="button button-secondary" href="{{ '/codex/' | relative_url }}">进入 Codex 知识库</a>
+        </div>
+        <p class="hero-note">正文优先、来源可核验；套餐和额度以 OpenAI 官方页面及账号内显示为准。</p>
+      </div>
+    </section>
+    {%- endif -%}
+
+    <main id="main-content" class="site-main{% if page.home %} home-main{% endif %}{% if page.readme_home %} readme-home{% endif %}">
+      <article class="article-content">
+        {%- if page.tech_article -%}
+        <p class="article-meta">小羊Plus知识库整理 · 更新于 {{ page.date_modified }} · 独立第三方资料</p>
+        {%- endif -%}
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <strong>小羊Plus中文知识库</strong>
+          <p>整理 ChatGPT、Codex 订阅与使用教程，帮助读者先理解规则，再做选择。</p>
+        </div>
+        <div class="footer-links">
+          <a href="{{ '/' | relative_url }}">知识库首页</a>
+          <a href="https://xiaoyangplus.com/" rel="noopener nofollow">小羊Plus</a>
+          <a href="https://help.openai.com/" rel="noopener">OpenAI Help Center</a>
+        </div>
+      </div>
+      <div class="footer-disclaimer">小羊Plus是独立第三方服务平台，并非 OpenAI 官方网站或授权代理。</div>
+    </footer>
+  </body>
+</html>
