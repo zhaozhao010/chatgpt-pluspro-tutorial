@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "国内 ChatGPT充值与ChatGPT代充速查：付款、到账与订阅问答"
+title: "ChatGPT Account ID 免密核销与订阅故障速查表"
 description: "按下单前、付款后和续费三个阶段查找答案，查看 Plus 实测截图、第三方订单入口及 Codex 用量说明。"
 permalink: /
 ---
 
-# 国内 ChatGPT充值与ChatGPT代充速查中心
+# ChatGPT Plus / Pro 订阅进度核验与异常速查中心
 
 准备开通 Plus 或 Pro，先看实际所在地是否在[服务支持范围](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)内。已经付过款，先找收据上的收款方。同样是订阅未生效，银行拒付、商店扣款和卡密待核销需要查的地方各不相同。
 
