@@ -131,6 +131,8 @@ fetch('/api/auth/session').then(r=>r.json()).then(s=>console.log('Account ID:', 
 
 只复制 `Account ID:` 后面的 ID。不要打开、复制或上传完整 Session JSON，也不要在控制台运行来源不明的脚本。该地址属于 ChatGPT 网页端内部接口，未来可能随页面更新而变化。
 
+💡 进阶工具：本仓库已提供封装好的本地 Tampermonkey 油猴脚本与网络连通性自检工具，详见 👉 [tools/ 实用脚本目录](./tools/README.md)。
+
 <a id="official-subscription"></a>
 
 ### 方法二：ChatGPT 官网直接订阅（官方路径核验）
