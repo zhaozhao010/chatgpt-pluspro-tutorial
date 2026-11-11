@@ -1,4 +1,19 @@
-# HTTP 连通性检查
+# 实用工具
+
+## Account ID 油猴脚本
+
+[`get-account-id.user.js`](get-account-id.user.js) 在用户已登录的 ChatGPT 页面提供手动查询菜单。
+
+1. 在 Chrome 或 Edge 安装并启用 Tampermonkey，按扩展提示开启运行用户脚本所需的浏览器权限。
+2. 打开 [脚本源码](https://raw.githubusercontent.com/zhaozhao010/chatgpt-pluspro-tutorial/main/tools/get-account-id.user.js)，阅读后安装。如果没有出现安装页，可在 Tampermonkey 中新建脚本，替换默认内容并保存。
+3. 登录 `https://chatgpt.com`，刷新页面，在 Tampermonkey 菜单中选择“查询 Account ID（本地）”。
+4. 在弹窗中手动复制 Account ID。点击取消即可关闭弹窗。
+
+脚本只在点击菜单后向 ChatGPT 自己的认证接口发起请求，由浏览器携带当前登录状态。它只显示返回数据中的 `account.id`，不输出完整 Session、不写入存储或剪贴板、不向第三方发送数据。请勿向任何人提供完整 Session、Access Token、Cookie、密码或验证码。
+
+该认证接口属于网页内部实现，字段可能随更新改变。若提示“未找到”，请先确认登录状态；持续失败时停止使用，勿改成输出完整认证数据。Account ID 与账号或工作区标识的关系以当前接口实现为准。
+
+## HTTP 连通性检查
 
 `check_connection.py` 使用 Python 标准库检查公开网页的 HTTP 状态和响应头等待时间。适合在浏览器加载失败时辅助判断是否能收到服务器响应。
 
