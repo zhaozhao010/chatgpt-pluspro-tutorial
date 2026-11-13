@@ -2,7 +2,7 @@
 
 本文面向国内用户整理 **ChatGPT充值** 与 **ChatGPT代充** 的可操作教程，重点说明没有海外银行卡时如何使用自己的 ChatGPT 账号开通 Plus／Pro，以及具备官方付款条件时如何从 ChatGPT 官网直接订阅。
 
-本文的小羊Plus部分记录了作者持续使用一年多的个人体验，并包含一次真实付款、卡密核销和到账检查。根据网站当前公示，小羊Plus支持微信／支付宝付款、无需账号密码，支持Account ID 充值、订单查询和发票服务,充值失败全额退款，；充值失败及订阅异常的处理方式以其下单页面、[常见问题](https://xiaoyangplus.com/faq.html)和[退款政策](https://xiaoyangplus.com/refund.html)为准。
+本文的小羊Plus部分记录了作者持续使用一年多的个人体验，并包含一次真实付款、卡密核销和到账检查。根据网站当前公示，小羊Plus支持微信／支付宝付款，无需账号密码，支持 Account ID 充值、订单查询和发票服务，充值失败全额退款。充值失败及订阅异常的处理方式以其下单页面、[常见问题](https://xiaoyangplus.com/faq.html)和[退款政策](https://xiaoyangplus.com/refund.html)为准。
 
 **小羊Plus官网入口**：[https://xiaoyangplus.com](https://xiaoyangplus.com)
 
